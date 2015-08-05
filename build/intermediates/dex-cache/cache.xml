@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub\SimpleReader\app\libs\antlr-2.7.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56e971d779b8aeee0366d11a613dcf9f7882a3b1">
+        <dex dex="D:\GitHub\SimpleReader\app\build\intermediates\pre-dexed\debug\antlr-2.7.4-800577275de38882ad2c3bf7d13dc41f43dca49f.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\SimpleReader\app\libs\jargs-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0c40b72d934ddbea05368df91456f4d3689296dd">
+        <dex dex="D:\GitHub\SimpleReader\app\build\intermediates\pre-dexed\debug\jargs-1.0-c7a0104692b87b5acc3627e6810f79a273952edf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio配置包\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\GitHub\SimpleReader\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5d40f8b4522dffd9dcd525b2d6b5cf42273de928.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\SimpleReader\app\libs\chardet-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7c063ce9ef5c742bebdd1712be9180d618fb559">
+        <dex dex="D:\GitHub\SimpleReader\app\build\intermediates\pre-dexed\debug\chardet-1.0-bfeb98bcbde6759cb5764e062f86e6f8c11b81b8.jar" />
+    </item>
+    <item
+        jar="D:\GitHub\SimpleReader\app\libs\cpdetector_1.0.10.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e823a42ddfad49a445a89d15566792b9ed8ecac">
+        <dex dex="D:\GitHub\SimpleReader\app\build\intermediates\pre-dexed\debug\cpdetector_1.0.10-dedb35ef89804187c670af8ffa0fd3667dcbc831.jar" />
+    </item>
+
+</items>

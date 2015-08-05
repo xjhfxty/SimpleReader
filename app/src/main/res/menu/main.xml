@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_size"
+        android:title="@string/size"
+        />
+    <item
+        android:id="@+id/menu_bg"
+        android:title="@string/bg"
+        />
+    <item
+        android:id="@+id/menu_1"
+        android:title="@string/about"
+        />
+
+</menu>
